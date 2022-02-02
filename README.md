@@ -13,7 +13,7 @@ Self-learned in:
 • JavaScript.
 
 
-Making a full stack java Bootcamp.
+Taking a full stack java Bootcamp.
 
  
 In my free time, I like to make video games in Unity. Learning in the journey, by now is a hobby but I would like to make it professional.
