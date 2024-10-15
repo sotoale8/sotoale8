@@ -1,5 +1,4 @@
-👋 Hi, I’m  Alejandro Soto, electronic Enginer pretending to take a professional turn and work on IT.
-
+👋 Hi, I’m  Alejandro Soto, electronic Enginer now focus on QA Automation
 Self-learned in:
 
 • JAVA.
@@ -11,9 +10,6 @@ Self-learned in:
 • MySQL.
 
 • JavaScript.
-
-
-Taking a full stack java Bootcamp.
 
  
 In my free time, I like to make video games in Unity. Learning in the journey, by now is a hobby but I would like to make it professional.
