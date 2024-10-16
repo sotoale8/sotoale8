@@ -1,5 +1,4 @@
 👋 Hi, I’m  Alejandro Soto, electronic Enginer now focus on QA Automation
-Self-learned in:
 
 • JAVA.
 
