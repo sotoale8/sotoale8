@@ -1,10 +1,12 @@
-👋 Hi, I’m  Alejandro Soto, electronic Enginer now focus on QA Automation
+👋 Hi, I’m  Alejandro Soto, electronic Enginer focus on QA Automation with ISTQB Foundation certification.
 
 • JAVA.
 
 • Spring Boot.
 
 • Selenium WebDriver
+
+• C#
 
 • MySQL.
 
