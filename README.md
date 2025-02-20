@@ -1,4 +1,4 @@
-👋 Hi, I’m  Alejandro Soto, electronic Enginer focus on QA Automation with ISTQB Foundation certification.
+👋 Hi, I’m  Alejandro Soto, electronic Enginer focus on QA Automation with ISTQB Foundation and Selenium certification.
 
 • JAVA.
 
@@ -6,18 +6,19 @@
 
 • Selenium WebDriver
 
-• C#
+• C# / Unity
+
+• Karate DSL
 
 • MySQL.
 
 • JavaScript.
 
- 
-In my free time, I like to make video games in Unity. Learning in the journey, by now is a hobby but I would like to make it professional.
-
 LinkedIN: https://www.linkedin.com/in/sotoale8/
 
 Email: sotoale8@gmail.com
+
+Itch.io: https://aleaxell8.itch.io/
 
 <!---
 sotoale8/sotoale8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
